@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0"><!-- displays site properly based on user's device-->
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"><!-- displays site properly based on user's device -->
     <link rel="icon" type="images/png" sizes="32*32" href="./images/favicon-32x32.png"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,8 +17,8 @@
     <div class="card bright-orange" >  
          <img src="/challenge/images/icon-sedans.svg" alt="">
         <h3>sedans</h3> 
-       <p>choose a sedan for ist affordability and excellent fuel economy. Ideal for cruising in the city 
-           or on your next road trip.
+       <p>choose a sedan for ist affordability and excellent fuel economy. Ideal for cruising in the city
+     or on your next road trip.
        </p> <button class="btn">LEARN MORE</button>
        
        <div class="card dark-cyan">
@@ -32,7 +32,7 @@
     <img src="/challenge/images/icon-luxury.svg" alt="">  
             <h3>luxury</h3> 
            <p> Cruise in the best car brands without the bloated prices.
-               enyoy the enhanced comfort of a luxury rentaland arrive  in style.
+               enjoy the enhanced comfort of a luxury rentaland arrive  in style.
            </p>
             <button class="btn">LEARN MORE</button>
           
